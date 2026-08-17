@@ -1,0 +1,25 @@
+{
+  "id": "ai-assets",
+  "title": "AI Assets",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "",
+      "url": "",
+      "flags": {}
+    }
+  ],
+  "description": "AI-generated images, icons, and videos.",
+  "esmodules": [],
+  "styles": [],
+
+  "url": "https://github.com/brunocalado/ai-assets",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/ai-assets/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/ai-assets/zip/main",
+
+  "flags": {}
+}
