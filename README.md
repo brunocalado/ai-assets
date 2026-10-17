@@ -2,6 +2,8 @@
 
 A collection of AI-generated images, icons, and videos for your games.
 
+![Filip Monti](Filip-Monti.webp)
+
 ## Installation
 
 To install this module in Foundry VTT, paste the following URL into the **Manifest URL** field in the Add-On Modules menu:
